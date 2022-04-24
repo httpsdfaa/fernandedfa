@@ -2,8 +2,8 @@
 
 
 - 🔭 Procurando um trabalho ou estágio na área de tecnologia
-- 🌱 Estudando Javascript e ReactJS
-- 📚 Sou graduando de Análise e desenvolvimento de sistemas
+- 🌱 Estudando JavaScript e ReactJS
+- 📚 Sou graduando em Análise e Desenvolvimento de Sistemas
 <br/>
 <br/>
 <div align="center">
