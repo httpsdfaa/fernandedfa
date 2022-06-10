@@ -2,7 +2,7 @@
 
 
 - 🔭 Procurando um trabalho ou estágio na área de tecnologia
-- 🌱 Estudando JavaScript e ReactJS
+- 🌱 Estudando JavaScript, ReactJS e NODEJS
 - 📚 Sou graduando em Análise e Desenvolvimento de Sistemas
 <br/>
 <br/>
